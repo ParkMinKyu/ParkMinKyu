@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkMinKyu&layout=compact&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=ParkMinKyu&layout=compact&theme=dracula&locale=kr)
 
-![](https://github-readme-stats.vercel.app/api?username=ParkMinKyu&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=ParkMinKyu&show_icons=true&theme=dracula&locale=kr)
 
 <!--
 **ParkMinKyu/ParkMinKyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
