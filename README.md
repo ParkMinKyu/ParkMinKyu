@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkMinKyu&layout=compact&theme=dracula)
+
 ![](https://github-readme-stats.vercel.app/api?username=ParkMinKyu&show_icons=true&theme=dracula)
 
 <!--
