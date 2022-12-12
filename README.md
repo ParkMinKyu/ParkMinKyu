@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ParkMinKyu)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=ParkMinKyu&layout=compact&theme=dracula&locale=kr)
 
