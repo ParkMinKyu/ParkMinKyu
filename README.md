@@ -2,11 +2,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ParkMinKyu)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--
+
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=ParkMinKyu&layout=compact&theme=dracula&locale=kr)
 
 ![](https://github-readme-stats.vercel.app/api?username=ParkMinKyu&show_icons=true&theme=dracula&locale=kr)
-
+<!--
 **ParkMinKyu/ParkMinKyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
